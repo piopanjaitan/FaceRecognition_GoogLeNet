@@ -32,3 +32,15 @@ Proyek ini menggunakan dataset **CelebA (CelebFaces Attributes Dataset)**.
    ```bash
    git clone [https://github.com/piopanjaitan/FaceRecognition_GoogLeNet.git](https://github.com/piopanjaitan/FaceRecognition_GoogLeNet.git)
    cd FaceRecognition_GoogLeNet
+
+2. **Instalasi Dependency**:
+    ```bash
+    pip install torch torchvision pandas matplotlib seaborn scikit-learn gradio pillow
+    ```
+
+3. **Menjalankan Proyek**:
+    Buka Project1_FaceRecoqnition.ipynb di Jupyter Notebook atau VS Code, lalu jalankan semua sel. Antarmuka Gradio akan muncul di bagian akhir notebook.
+
+## 👤 Penulis
+Ridwan Pineer Panjaitan
+

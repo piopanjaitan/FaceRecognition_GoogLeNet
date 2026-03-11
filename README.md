@@ -1,7 +1,5 @@
-# FaceRecognition_GoogLeNet
+# FaceRecognition_GoogLeNet ((Gender, Smile, Age))
 Project 1 - Indonesia AI
-
-# Face Recognition: Multi-Task Learning (Gender, Smile, Age)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)

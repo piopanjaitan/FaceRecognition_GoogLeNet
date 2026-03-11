@@ -23,9 +23,25 @@ Sistem ini didasarkan pada arsitektur **GoogLeNet (Inception v1)** yang dimodifi
 
 ## 📊 Dataset
 Proyek ini menggunakan dataset **CelebA (CelebFaces Attributes Dataset)**.
-* Proses sinkronisasi data dilakukan untuk memastikan file gambar sesuai dengan atribut di `list_attr_celeba.csv`.
+* Ambil data dari Google Drive: [CelebA](https://drive.google.com/drive/folders/1hiF9T5Cz-ID0GIFeQMUY48GidEHkTvip?usp=drive_link)
+* Proses sinkronisasi data dilakukan untuk memastikan file gambar `img_align_celeba/` sesuai dengan atribut di `list_attr_celeba.txt`.
+* Proses sinkronisasi data dilakukan untuk memastikan file gambar sesuai dengan atribut di `list_attr_celeba.txt`.
 * Data dibersihkan dari entri yang tidak memiliki file gambar fisik.
 * Subset data digunakan untuk efisiensi komputasi selama fase pengembangan.
+
+## 📂 Struktur Folder
+Contoh struktur folder proyek:
+
+```bash
+project-folder/
+├── Project1_FaceRecoqnition.ipynb
+├── README.md
+├── model/
+│   └── best_face_model.pth
+└── data/
+    ├── img_align_celeba/
+    └── list_attr_celeba.txt
+```
 
 ## 💻 Instalasi & Penggunaan
 1. **Clone Repository**:

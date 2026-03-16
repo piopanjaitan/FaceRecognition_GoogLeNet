@@ -56,6 +56,11 @@ project-folder/
 
    Buka `Project1_FaceRecoqnition.ipynb` di Jupyter Notebook atau VS Code, lalu jalankan semua sel. Antarmuka Gradio akan muncul di bagian akhir notebook.
 
+## 📱 Demo in HuggingFace
+
+[Demo Here](https://huggingface.co/spaces/piopanjaitan/Multitask_GooLeNet)
+
+
 ## 👤 Penulis
 Ridwan Pineer Panjaitan
 

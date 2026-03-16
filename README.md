@@ -58,7 +58,7 @@ project-folder/
 
 ## 📱 Demo in HuggingFace
 
-[Demo Here](https://huggingface.co/spaces/piopanjaitan/Multitask_GooLeNet)
+<a href="https://huggingface.co/spaces/piopanjaitan/Multitask_GooLeNet" target="_blank">Demo Here</a>
 
 
 ## 👤 Penulis

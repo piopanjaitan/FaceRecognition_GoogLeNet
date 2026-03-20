@@ -62,5 +62,5 @@ project-folder/
 
 
 ## 👤 Penulis
-Ridwan Pineer Panjaitan
+Ridwan Pioneer Panjaitan
 
